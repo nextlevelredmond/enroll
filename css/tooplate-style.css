@@ -463,6 +463,9 @@ figure {
 @media (min-width: 1200px) {
   .container {
     max-width: 1233px;
+    margin: 0 auto;
+    text-align: center;
+    display: inline-block;
   }
 
   .tm-company-about {
